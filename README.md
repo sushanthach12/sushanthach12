@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <link href="https://languages.abranche.com/logos.css" rel="stylesheet">
 <i class="programming lang-javascript"></i>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="10">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="20">
 
