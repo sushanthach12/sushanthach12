@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 <img  href="https://github.com/sushanthach12/" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">        <img  href="https://github.com/sushanthach12/" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Java&logoColor=orange">           <img  href="https://github.com/sushanthach12/" src="https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=Javascript&logoColor=yellow">        <img  href="https://github.com/sushanthach12/" src="https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=purple">        <img  href="https://github.com/sushanthach12/" src="https://img.shields.io/badge/Android studio-100000?style=for-the-badge&logo=androidstudio&logoColor=blue-green">   
 
-<link href="https://languages.abranche.com/logos.css" rel="stylesheet">
-<i class="programming lang-javascript"></i>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="25">    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/java.png" height="25">
 
