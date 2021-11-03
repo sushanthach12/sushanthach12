@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <link href="https://languages.abranche.com/logos.css" rel="stylesheet">
 <i class="programming lang-javascript"></i>
-
+<img src="https://cdn.abranhe.com/projects/programming-languages-logos-site/example.png" alt="example" width="50%">
