@@ -1,13 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sushanth</h1>
-<h3 align="left">As an aspiring Software Development Engineer, I am passionate about creating innovative and efficient solutions. With a good foundation in programming and computer science, I am committed to constantly improving my skills and staying up-to-date with the latest developments in the industry.
-
-Currently pursuing my degree in Computer Science, I have gained hands-on experience through various projects, where I have worked with the technologies and collaborated with fellow mates. I am eager to apply my knowledge and skills to real-world challenges and contribute to the success of dynamic and cutting-edge organizations.
-
-In addition to my technical expertise, I possess good communication and collaboration skills, which enable me to work effectively in cross-functional teams and communicate complex technical concepts to non-technical stakeholders. I am also a quick learner and thrive in fast-paced environments.
-
-I am excited about the opportunity to join a team of passionate and talented software professionals and contribute to the development of innovative solutions that make a positive impact on people's lives.
-
-WEB DEVELOPMENT || NEXTJS || JAVASCRIPT || NODEJS || MONGODB || MERN.</h3>
+<h3 align="left">WEB DEVELOPMENT || NEXTJS || JAVASCRIPT || NODEJS || MONGODB || MERN.</h3>
 
 
 ## Languages and Tools
