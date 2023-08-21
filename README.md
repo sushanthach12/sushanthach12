@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sushanth</h1>
-<h3 align="left">WEB DEVELOPMENT || NEXTJS || JAVASCRIPT || NODEJS || MONGODB || MERN.</h3>
+<h3 align="left">Full Stack Developer || NEXTJS || TYPESCRIPT || JAVASCRIPT || NESTJS || NODEJS || MONGODB || MERN.</h3>
 
 
 ## Languages and Tools
