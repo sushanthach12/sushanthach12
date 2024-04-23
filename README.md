@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sushanth</h1>
 <h3 align="left">FULL STACK DEVELOPER || NEXTJS || TYPESCRIPT || JAVASCRIPT || NESTJS || NODEJS || MONGODB || MERN.</h3>
 
+![](https://komarev.com/ghpvc/?username=sushanthach12&style=flat&base=1000&color=blue)
 <h3><a href="https://sushanth.vercel.app/" target="_blank">Portfolio<a></h3>
 
 ## Languages and Tools
